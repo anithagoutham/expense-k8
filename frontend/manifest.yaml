@@ -24,7 +24,7 @@ spec:
       containers:
       - name: frontend
         image: anitha2012/frontend:v1
-         resources:
+        resources:
           requests:
             cpu: 100m
             memory: 128Mi
